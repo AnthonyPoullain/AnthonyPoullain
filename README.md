@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [OpenClassroom's "Développeur d'application: Javascript/React" training program](https://github.com/AnthonyPoullain/OC-P13-Bank-Front)
+- 🔭 I’m currently working on [OpenClassroom's "Développeur d'application: Javascript/React" training program (Project 13/14)](https://github.com/AnthonyPoullain/OC-P13-Bank-Front)
 
 - 🌱 I’m currently learning **React / TypeScript / Redux**
 
