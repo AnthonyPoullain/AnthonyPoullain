@@ -50,14 +50,6 @@
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-### Food 🍔
-<img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
-<img src="https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />
-<img src="https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white" />
-<br>
-
 ---
 
 ## Currently working on...
