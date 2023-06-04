@@ -48,7 +48,7 @@
 <img width="300px" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
 <br><br>
 
-...my React library 📚 [React Quick Modal](https://github.com/AnthonyPoullain/react-quick-modal)
+...learning 📚 NextJS
 
 ## Reach me 📭
 
